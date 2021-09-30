@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MediaTechAssignment</string>
+    <string name="labelA1">Label A1</string>
+    <string name="labelA2">Label A2</string>
+    <string name="labelA3">Label A3</string>
+    <string name="labelA4">Label A4</string>
+    <string name="labelA5">Label A5</string>
+
+    <string name="labelB1">Label B1</string>
+    <string name="labelB2">Label B2</string>
+    <string name="labelB3">Label B3</string>
+    <string name="labelB4">Label B4</string>
+    <string name="labelB5">Label B5</string>
+
+    <string name="labelC1">Label C1</string>
+    <string name="labelC2">Label C2</string>
+    <string name="labelC3">Label C3</string>
+    <string name="labelC4">Label C4</string>
+    <string name="labelC5">Label C5</string>
+
+</resources>
